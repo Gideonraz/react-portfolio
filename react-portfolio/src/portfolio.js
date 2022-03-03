@@ -1,7 +1,7 @@
 const header = {
  
   homepage: 'https://gideonraz.github.io/react-portfolio/',
-  title: 'JS.',
+  title: 'PORTFOLIO',
 }
 
 const about = {
